@@ -11,7 +11,7 @@ public class MixtralChatbot {
 
     // Configuration constants
     private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "";
     private static final String MODEL = "mistralai/mixtral-8x7b-instruct";
     private static final String DEFAULT_SYSTEM_PROMPT = "You are a helpful AI assistant. Provide accurate, concise, and friendly responses.";
 
