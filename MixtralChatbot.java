@@ -24,7 +24,7 @@ public class MixtralChatbot {
         this.scanner = new Scanner(System.in);
 
 
-        messageHistory.add(new ChatMessage("system", DEFAULT_SYSTEM_PROMPT));
+        messageHistory.add(new ChatMessage("System", DEFAULT_SYSTEM_PROMPT));
     }
 
 
